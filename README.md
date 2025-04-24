@@ -15,4 +15,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kushallgowda/leetcode/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/kushallgowda/leetcode/tree/master/2032-largest-odd-number-in-string) |
+## String
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/kushallgowda/leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/kushallgowda/leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

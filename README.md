@@ -22,9 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kushallgowda/leetcode/tree/master/0014-longest-common-prefix) |
 | [2032-largest-odd-number-in-string](https://github.com/kushallgowda/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/kushallgowda/leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kushallgowda/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

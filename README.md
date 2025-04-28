@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kushallgowda/leetcode/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/kushallgowda/leetcode/tree/master/0217-contains-duplicate) |
 | [1580-shuffle-the-array](https://github.com/kushallgowda/leetcode/tree/master/1580-shuffle-the-array) |
+| [2058-concatenation-of-array](https://github.com/kushallgowda/leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kushallgowda/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/kushallgowda/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/kushallgowda/leetcode/tree/master/0344-reverse-string) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/kushallgowda/leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->

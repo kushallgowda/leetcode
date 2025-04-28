@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kushallgowda/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushallgowda/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kushallgowda/leetcode/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/kushallgowda/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kushallgowda/leetcode/tree/master/0217-contains-duplicate) |
 | [1580-shuffle-the-array](https://github.com/kushallgowda/leetcode/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/kushallgowda/leetcode/tree/master/2058-concatenation-of-array) |
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kushallgowda/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/kushallgowda/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kushallgowda/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kushallgowda/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kushallgowda/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kushallgowda/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kushallgowda/leetcode/tree/master/0242-valid-anagram) |
 ## Math
@@ -54,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/kushallgowda/leetcode/tree/master/2058-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kushallgowda/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kushallgowda/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

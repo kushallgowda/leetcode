@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/kushallgowda/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kushallgowda/leetcode/tree/master/0344-reverse-string) |
 | [2032-largest-odd-number-in-string](https://github.com/kushallgowda/leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3379-score-of-a-string](https://github.com/kushallgowda/leetcode/tree/master/3379-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
